@@ -1,0 +1,1648 @@
+[
+  {
+    "id": "kinetics-harvesting-tile-green-runway",
+    "sn": 1,
+    "title": "Kinetics Harvesting Tile (KHT) Green Runway",
+    "shortTitle": "Kinetics Harvesting Tile",
+    "category": "Sustainability",
+    "synopsis": "The Kinetic Harvesting Tile (KHT) Green Runway is an urban sustainability innovation that converts everyday footsteps into usable electricity through piezoelectric flooring. To address the common limitation of low power output in piezoelectric energy harvesting systems, the project incorporated several design enhancements, including rubber stoppers, mechanical spacers, stacked piezoelectric modules, and a modular structure that allows individual base units to be combined for higher output based on application needs.\n\nThese improvements enabled practical and engaging applications at ITE College West, such as kinetic hopscotch, emergency lighting, and an interactive game station for sustainability education and outreach. The innovation was also documented in the IntechOpen book chapter, Maximising Piezoelectric Energy Harvesting: Overcoming Challenges and Unlocking Sustainable Power Generation, extended to Virogreen Singapore's E-Waste Visitor Centre through an industry collaboration.",
+    "shortSynopsis": "The Kinetic Harvesting Tile (KHT) Green Runway is an urban sustainability innovation that converts everyday footsteps into usable electricity through piezoelectric flooring. To address the common limitation of low power output in piezoelectric energy harvesting systems, the project incorporated several design enhancements, including rubber stoppers, mechanical spacers, stacked piezoelectric modules, and a modular structure that allows individual base units to be combined for higher output based on application needs.",
+    "innovation": "Introduces a modular kinetic energy harvesting tile system that combines stacked piezoelectric modules, mechanical spacers, and shock-absorbing rubber stoppers to maximize electrical output from pedestrian footsteps. The design allows individual base units to be expanded or customized according to application requirements, improving durability, scalability, and energy generation efficiency for educational and urban sustainability applications.",
+    "benefit": "Converts otherwise wasted human kinetic energy into renewable electrical power, providing a sustainable and low-cost energy source for applications such as hopscotch games, emergency lighting, and interactive educational exhibits. The project promotes environmental awareness, supports sustainability education, and demonstrates practical green energy solutions that can be deployed in schools, public spaces, and outreach centres such as Virogreen Singapore's E-Waste Visitor Centre.",
+    "display": {
+      "tagline": "Converts pedestrian footsteps into usable renewable electrical power through modular piezoelectric flooring tiles.",
+      "problem": "Conventional piezoelectric flooring generates limited power output and suffers from wear under continuous pedestrian traffic.",
+      "solution": "Students engineered modular kinetic harvesting tiles with rubber stoppers, mechanical spacers, and stacked piezoelectric modules to maximize electricity output.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Harvest",
+          "description": "Pedestrian footsteps compress stacked piezoelectric modules inside floor units."
+        },
+        {
+          "step": "2",
+          "title": "Regulate",
+          "description": "Power circuits convert mechanical pulses into stable, usable electricity."
+        },
+        {
+          "step": "3",
+          "title": "Power",
+          "description": "Powers interactive game stations, hopscotch exhibits, and emergency lighting."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Modular Architecture",
+          "description": "Individual tile units can be linked together and customized for different floor layouts and power needs."
+        },
+        {
+          "title": "Damped Mechanical Design",
+          "description": "Rubber stoppers and spacers maximize energy transfer while protecting sensitive piezoelectric crystals."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Clean Urban Energy",
+          "description": "Harvests otherwise wasted human motion into renewable electricity for smart spaces."
+        },
+        {
+          "title": "Interactive Education",
+          "description": "Engages students and visitors in hands-on sustainability learning at ITE and Virogreen."
+        }
+      ],
+      "highlightMetric": "Published in IntechOpen Book Chapter",
+      "technologyTags": [
+        "Piezoelectric Modules",
+        "Kinetic Harvesting",
+        "Modular Hardware",
+        "CleanTech"
+      ]
+    },
+    "lecturers": [
+      "Samson",
+      "Alain Cheong",
+      "Sim Hwa San"
+    ],
+    "students": [
+      "Tan Hong Kai Edwin",
+      "Kent Wong",
+      "Adriel Ong Jian Xun",
+      "Chia Rong En"
+    ],
+    "course": "Higher NITEC in Electronics Engineering",
+    "partner": "Virogreen Singapore Pte Ltd",
+    "photos": [
+      {
+        "url": "./assets/projects/kinetics-harvesting-tile-green-runway/kht-03.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "KHT 03.png"
+      },
+      {
+        "url": "./assets/projects/kinetics-harvesting-tile-green-runway/kht.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "KHT.jpg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/kinetics-harvesting-tile-green-runway/kht.jpg",
+    "featured": false,
+    "keywords": [
+      "Piezoelectric",
+      "Renewable Energy",
+      "CleanTech",
+      "Sensors",
+      "Urban Sustainability",
+      "Kinetic Energy",
+      "Green Power"
+    ]
+  },
+  {
+    "id": "smart-recycling-machine",
+    "sn": 2,
+    "title": "Smart Recycling Machine",
+    "shortTitle": "Smart Recycling Machine",
+    "category": "Automation / AIoT / Robotics / Digital Systems",
+    "synopsis": "Conventional e-waste bins lack real-time monitoring capabilities, leading to inefficient collection schedules, unnecessary trips, and limited operational visibility. While smart recycling machines address these gaps through IoT-enabled monitoring, automated alerts, and user incentive features, they remain dependent on grid electricity. This reliance increases operating costs, restricts deployment flexibility, and weakens the overall sustainability proposition, particularly for outdoor, mobile, or temporary installations.\n\nTo overcome these limitations, ITE collaborated with its industry partner to enhance the existing smart recycling machine by integrating a solar-powered energy system. This transformation created a Sustainable Smart Machine capable of supporting off-grid operation, more flexible deployment, and a stronger alignment with circular economy and sustainability goals.",
+    "shortSynopsis": "Conventional e-waste bins lack real-time monitoring capabilities, leading to inefficient collection schedules, unnecessary trips, and limited operational visibility. While smart recycling machines address these gaps through IoT-enabled monitoring, automated alerts, and user incentive features, they remain dependent on grid electricity.",
+    "innovation": "Integrates IoT-enabled real-time monitoring, automated collection alerts, and user engagement features into a smart e-waste recycling platform. The system can be enhanced with renewable energy sources such as solar power to reduce reliance on grid electricity, enabling flexible deployment in outdoor, mobile, and temporary locations. By combining operational monitoring with sustainability-focused design, the machine improves collection efficiency while promoting responsible e-waste disposal through an interactive user experience.",
+    "benefit": "Improves operational efficiency by providing real-time fill-level visibility and reducing unnecessary collection trips, leading to lower manpower and transportation costs. The renewable energy capability enhances deployment flexibility and sustainability, while the user incentive and awareness features encourage greater public participation in e-waste recycling. This contributes to increased e-waste diversion from landfills, supports environmental education, and promotes a circular economy approach to resource recovery.",
+    "display": {
+      "tagline": "Enhances smart e-waste recycling bins with solar power and real-time IoT fill monitoring.",
+      "problem": "Conventional e-waste bins lack fill visibility, causing inefficient collection trips, while smart bins remain tethered to the power grid.",
+      "solution": "Students integrated a solar PV energy system with IoT monitoring, creating an off-grid smart e-waste recycling station with automated collection alerts.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Monitor",
+          "description": "Ultrasonic and status sensors track bin fill levels and operational status in real time."
+        },
+        {
+          "step": "2",
+          "title": "Solar Power",
+          "description": "Integrated solar panel and battery enable flexible off-grid deployment anywhere."
+        },
+        {
+          "step": "3",
+          "title": "Alert & Reward",
+          "description": "Sends collection notifications to operators and offers user incentive features."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Off-Grid Solar Integration",
+          "description": "Eliminates grid dependency for mobile, temporary, or outdoor public deployments."
+        },
+        {
+          "title": "Automated Logistics Alerts",
+          "description": "Notifies waste collection teams only when bins are full, optimizing logistics."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Reduces Operating Costs",
+          "description": "Prevents unnecessary collection trips, saving manpower, fuel, and transport emissions."
+        },
+        {
+          "title": "Diverts E-Waste",
+          "description": "Encourages responsible community e-waste disposal through an engaging user experience."
+        }
+      ],
+      "highlightMetric": "100% Solar Off-Grid Capable",
+      "technologyTags": [
+        "Solar PV",
+        "IoT Sensors",
+        "Automated Alerts",
+        "Circular Economy"
+      ]
+    },
+    "lecturers": [
+      "Mr Cheong Seow Ling"
+    ],
+    "students": [
+      "Adriel Ong Jian Xun",
+      "Bryce Heng",
+      "Choo Jing Han Denyse"
+    ],
+    "course": "Higher NITEC in Electronics Engineering",
+    "partner": "Virogreen Singapore Pte Ltd/ SGRecycle",
+    "photos": [
+      {
+        "url": "./assets/projects/smart-recycling-machine/smart-recycline-machine-02.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Smart Recycline Machine 02.jpeg"
+      },
+      {
+        "url": "./assets/projects/smart-recycling-machine/smart-recycline-machine-poster-02.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Smart Recycline Machine Poster 02.png"
+      },
+      {
+        "url": "./assets/projects/smart-recycling-machine/smart-recycling-machine-01.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Smart Recycling Machine 01.jpeg"
+      },
+      {
+        "url": "./assets/projects/smart-recycling-machine/smart-recycling-machine-03.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Smart Recycling Machine 03.jpeg"
+      },
+      {
+        "url": "./assets/projects/smart-recycling-machine/sustainable-smart-machine.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Sustainable Smart Machine.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/smart-recycling-machine/sustainable-smart-machine.jpg",
+    "featured": false,
+    "keywords": [
+      "Smart Recycling",
+      "IoT",
+      "Solar Energy",
+      "Circular Economy",
+      "Sensor Integration",
+      "Waste Management",
+      "E-Waste"
+    ]
+  },
+  {
+    "id": "ai-beverage",
+    "sn": 3,
+    "title": "AI Beverage",
+    "shortTitle": "AI Beverage",
+    "category": "AI & Data",
+    "synopsis": "Many commercial beverages today are packed with excessive sugar, artificial additives, and are sold in non-eco-friendly packaging. These factors contribute to serious health concerns such as obesity, diabetes, and other lifestyle-related diseases, while also worsening environmental pollution through plastic waste and carbon emissions. As a result, both human well-being and ecological balance are at risk, creating long-term social and environmental costs.\n\nAddressing this issue is crucial to promote healthier lifestyles, reduce the global burden of diet-related illnesses, and support environmental sustainability. Consumers are increasingly seeking healthier and more ethical choices, yet there remains a lack of accessible and sustainable beverage options. By developing innovative, technology-driven solutions that focus on nutrition and eco-friendly production, we can close this market gap and contribute to a healthier population and a more sustainable planet.",
+    "shortSynopsis": "Many commercial beverages today are packed with excessive sugar, artificial additives, and are sold in non-eco-friendly packaging. These factors contribute to serious health concerns such as obesity, diabetes, and other lifestyle-related diseases, while also worsening environmental pollution through plastic waste and carbon emissions.",
+    "innovation": "Project AI Beverage introduces a technology-driven approach to developing healthier and more sustainable beverages by integrating Artificial Intelligence (AI), personalised nutrition, and eco-conscious production. Unlike conventional beverages that often rely on high sugar content, artificial additives, and environmentally harmful packaging, the project aims to leverage AI to analyse consumer preferences and nutritional needs to support the creation of healthier, lower-sugar beverage options.\n\nThe innovation also extends beyond the beverage itself by incorporating sustainable ingredients, production methods, and eco-friendly packaging to minimise environmental impact. By combining AI-enabled personalisation with health-focused formulation and sustainability, Project AI Beverage offers a new model for developing beverages that address both consumer well-being and environmental responsibility.\n\nThis integrated approach creates a smarter, healthier, and more sustainable beverage solution, bridging the gap between emerging technology, nutrition, consumer demand, and environmental sustainability.",
+    "benefit": "Project AI Beverage delivers benefits across health, technology, business, and environmental sustainability:\n\nHealthier Choices – Promotes lower-sugar and more nutritious beverage options, supporting healthier lifestyles and reducing the risks associated with excessive sugar consumption.\nPersonalised Nutrition – Uses AI to analyse consumer preferences and nutritional needs, enabling more personalised beverage recommendations and formulations.\nEnvironmental Sustainability – Encourages the use of sustainable ingredients, eco-friendly packaging, and greener production processes to reduce plastic waste and carbon emissions.\nConsumer Awareness – Helps consumers make more informed decisions by providing greater visibility into beverage ingredients, nutritional value, and sustainability.\nMarket Innovation – Addresses the growing demand for healthier and environmentally responsible beverages while creating opportunities for new products and business models.\nTechnology Adoption – Demonstrates how AI can be applied beyond traditional industries to solve real-world health, consumer, and environmental challenges.\nLong-Term Social Impact – Contributes to healthier communities and a more sustainable environment by addressing both lifestyle-related health concerns and ecological challenges.",
+    "display": {
+      "tagline": "Applies AI and personalized nutrition analysis to formulate healthier beverages with eco-friendly production.",
+      "problem": "Commercial drinks frequently contain excessive sugar and non-recyclable packaging, aggravating lifestyle diseases and plastic waste.",
+      "solution": "Students developed an AI platform analyzing consumer dietary preferences and nutrition profiles to formulate healthier, low-sugar drinks in eco-friendly packaging.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Analyze",
+          "description": "AI models evaluate consumer nutritional requirements and taste preferences on AWS."
+        },
+        {
+          "step": "2",
+          "title": "Formulate",
+          "description": "Generates optimized, lower-sugar recipes with healthier ingredient profiles."
+        },
+        {
+          "step": "3",
+          "title": "Eco-Produce",
+          "description": "Pairs formulations with sustainable production methods and biodegradable packaging."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Personalized Nutrition AI",
+          "description": "Creates targeted, health-conscious formulations matched to individual wellness goals."
+        },
+        {
+          "title": "End-to-End Eco-Design",
+          "description": "Combines healthier recipe creation with sustainable ingredients and packaging."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Healthier Lifestyles",
+          "description": "Supports consumers in reducing sugar intake to lower risks of diet-related illnesses."
+        },
+        {
+          "title": "Plastic Reduction",
+          "description": "Encourages sustainable packaging to reduce carbon emissions and plastic pollution."
+        }
+      ],
+      "highlightMetric": "AWS AI-Powered Formulation",
+      "technologyTags": [
+        "Artificial Intelligence",
+        "AWS Cloud",
+        "Personalized Nutrition",
+        "Eco-Packaging"
+      ]
+    },
+    "lecturers": [
+      "Mr Max Chua"
+    ],
+    "students": [
+      "Azrullah bin Jamilludin",
+      "Gabriel Tang Zhuo Xian"
+    ],
+    "course": "Higher NITEC in Electronics Engineering",
+    "partner": "Amazon Web Services",
+    "photos": [
+      {
+        "url": "./assets/projects/ai-beverage/ai-beverage-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "AI Beverage Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/ai-beverage/ai-beverageprojectphoto.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "AI Beverage_project_photo.jpg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/ai-beverage/ai-beverageprojectphoto.jpg",
+    "featured": false,
+    "keywords": [
+      "Artificial Intelligence",
+      "Personalised Nutrition",
+      "Machine Learning",
+      "Consumer Health",
+      "AWS",
+      "Sustainable Food"
+    ]
+  },
+  {
+    "id": "ai-career-companion",
+    "sn": 4,
+    "title": "AI Career Companion For Everyone",
+    "shortTitle": "AI Career Companion For Everyone",
+    "category": "Digital Trust",
+    "synopsis": "AI Career Companion for Everyone is an AI-powered platform helping Singapore job seekers create professional CVs and cover letters in seconds. Users take a personality quiz to uncover their strengths, then the AI generates tailored documents — no manual typing required. The platform also features a smart job search filtered by education level (ITE, Polytechnic, University) and job type (Full Time, Part Time, Internship). Users can express interest in roles to track their job search. Fully self-service, paperless, and open to everyone.",
+    "shortSynopsis": "AI Career Companion for Everyone is an AI-powered platform helping Singapore job seekers create professional CVs and cover letters in seconds. Users take a personality quiz to uncover their strengths, then the AI generates tailored documents — no manual typing required.",
+    "innovation": "Turning coursework into resume content — a real gap for ITE students. Most career tools assume you have work experience or CCAs to write about. Ours looks up the official module syllabus and rephrases it into professional bullet points.\n\nAI Resume ↔ JD Matching — Paste any job description and get an instant keyword gap report plus an ATS-optimized résumé rewrite, so your application gets past the automated screen before a human ever sees it",
+    "benefit": "-Instant professional documents — generate polished CVs and cover letters without paying for a service or struggling with templates\n-RIASEC-backed personalization — documents use language matched to your career personality type (SkillsFuture-validated framework)",
+    "display": {
+      "tagline": "Generates tailored CVs and cover letters from interactive personality quizzes using generative AI.",
+      "problem": "Job seekers frequently struggle to translate their education, strengths, and work styles into structured, compelling resumes.",
+      "solution": "Students built an AI career platform where job seekers take a personality assessment to uncover strengths and immediately generate customized CVs.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Assess",
+          "description": "Users complete an engaging quiz to identify key personality traits and skills."
+        },
+        {
+          "step": "2",
+          "title": "Match",
+          "description": "Selects target job roles and extracts relevant industry competencies."
+        },
+        {
+          "step": "3",
+          "title": "Generate",
+          "description": "Generative AI crafts polished, tailored CVs and cover letters in seconds."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Personality-Grounded Profiling",
+          "description": "Translates individual traits into tangible professional talking points."
+        },
+        {
+          "title": "Instant Document Drafting",
+          "description": "Eliminates writer's block by producing customized application materials quickly."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Empowers Job Seekers",
+          "description": "Helps students and career switchers present their true capabilities with clarity."
+        },
+        {
+          "title": "Saves Time",
+          "description": "Significantly streamlines application preparation for competitive job markets."
+        }
+      ],
+      "highlightMetric": "Instant Resume Generation",
+      "technologyTags": [
+        "Generative AI",
+        "Personality Profiling",
+        "Career Guidance",
+        "Digital Trust"
+      ]
+    },
+    "lecturers": [
+      "Kok Siong"
+    ],
+    "students": [
+      "Yeo Qiu Shi Andrei",
+      "Ng Chee Meng",
+      "Athauda Mudiyanselage Osanda Sevmeth Athauda"
+    ],
+    "course": "Higher Nitec in Cyber & Network Security",
+    "partner": "ITE ECG",
+    "photos": [
+      {
+        "url": "./assets/projects/ai-career-companion/ai-career-companion-team.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "AI Career Companion Team.jpg"
+      },
+      {
+        "url": "./assets/projects/ai-career-companion/ai-companion-for-everyone-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "AI Companion for Everyone Poster 01.png"
+      }
+    ],
+    "heroPhoto": "./assets/projects/ai-career-companion/ai-career-companion-team.jpg",
+    "featured": false,
+    "keywords": [
+      "Career Guidance",
+      "Resume Validation",
+      "Natural Language Processing",
+      "Digital Trust",
+      "AI Mentor",
+      "Conversational AI"
+    ]
+  },
+  {
+    "id": "pulse-edge-ai-ecopulse",
+    "sn": 5,
+    "title": "Pulse Edge AI with EcoPulse Insight",
+    "shortTitle": "Pulse Edge AI with EcoPulse Insight",
+    "category": "Automation / AIoT / Robotics / Digital Systems",
+    "synopsis": "Pulse Edge AI with EcoPulse Insight is a smart-energy monitoring and investigation system that combines TinyML edge intelligence with an AI-guided Investigation Assistant. Electrical measurements are analysed directly on an ESP32-S3, where TinyML classifies operating conditions as Idle, Low, Medium or High Load using electrical measurements and time context. EcoPulse Insight complements this edge intelligence by helping users understand the findings, ask questions about energy behaviour and identify what should be investigated or verified. The system turns raw energy data into understandable insights while keeping humans responsible for operational decisions.",
+    "shortSynopsis": "Pulse Edge AI with EcoPulse Insight is a smart-energy monitoring and investigation system that combines TinyML edge intelligence with an AI-guided Investigation Assistant. Electrical measurements are analysed directly on an ESP32-S3, where TinyML classifies operating conditions as Idle, Low, Medium or High Load using electrical measurements and time context.",
+    "innovation": "The innovation lies in combining local TinyML classification with evidence-grounded conversational AI. Instead of only displaying electrical readings, Pulse Edge AI adds time context and classifies load conditions directly on the ESP32-S3, allowing core intelligence to operate locally without relying on cloud connectivity. EcoPulse Insight then provides a conversational investigation layer that explains measured findings and guides users on what to verify, while deterministic measurements and analytics remain the source of truth. \n\nThis creates a trusted workflow of Measure → Classify → Explain → Investigate → Verify → Decide.",
+    "benefit": "Pulse Edge AI with EcoPulse Insight transforms electrical telemetry into understandable, actionable energy intelligence. Local TinyML classifies load conditions with time context, helping users identify potentially unusual operating patterns earlier while continuing to work without cloud connectivity. EcoPulse Insight builds on this evidence by guiding users through investigation, possible explanations and verification of legitimate operational needs before action is taken. Users can also simulate potential energy-saving scenarios and estimate their possible energy, cost and carbon impact before making operational changes. By combining edge intelligence, evidence-grounded AI guidance and human verification, the system supports earlier awareness, more focused investigation and informed action while ensuring that AI assists rather than replaces human decision-making.",
+    "display": {
+      "tagline": "Monitors electrical equipment using TinyML edge classification and an AI investigation assistant.",
+      "problem": "Industrial energy monitoring typically requires high cloud bandwidth and expert analysis to diagnose equipment power anomalies.",
+      "solution": "Students deployed TinyML models onto ESP32-S3 microcontrollers to classify load states locally, paired with an AI assistant that explains unusual energy behaviour.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Sample",
+          "description": "Current and voltage sensors capture electrical telemetry on local hardware."
+        },
+        {
+          "step": "2",
+          "title": "Classify",
+          "description": "On-chip TinyML classifies load into Idle, Low, Medium, or High Load states in real time."
+        },
+        {
+          "step": "3",
+          "title": "Investigate",
+          "description": "EcoPulse AI assistant helps operators understand energy anomalies and identify savings."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "TinyML On-Device Inference",
+          "description": "Runs machine learning directly on ESP32-S3 microcontrollers without cloud streaming costs."
+        },
+        {
+          "title": "Evidence-Grounded AI Guidance",
+          "description": "AI assistant interprets measured sensor telemetry to explain unusual power spikes."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Energy Optimization",
+          "description": "Uncovers wasted power and standby losses during non-operational periods."
+        },
+        {
+          "title": "Local Data Privacy",
+          "description": "Maintains telemetry locally on the edge device without recurring cloud subscriptions."
+        }
+      ],
+      "highlightMetric": "TinyML On-Chip Inference",
+      "technologyTags": [
+        "TinyML",
+        "ESP32-S3",
+        "Edge AI",
+        "Energy Analytics",
+        "IoT Hardware"
+      ]
+    },
+    "lecturers": [
+      "Chao Xiang"
+    ],
+    "students": [
+      "Muhammad Abdul Azim Syahmi",
+      "Anaqi Nabil bin Ismail",
+      "Muhammad Fahrin bin Roslan"
+    ],
+    "course": "Higher Nitec in Cyber & Network Security",
+    "partner": "",
+    "photos": [
+      {
+        "url": "./assets/projects/pulse-edge-ai-ecopulse/pulse-edge-ai-with-ecopulse-insight-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Pulse Edge AI with EcoPulse Insight Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/pulse-edge-ai-ecopulse/pulse-edge-with-ecopulse-insight.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Pulse Edge with EcoPulse Insight.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/pulse-edge-ai-ecopulse/pulse-edge-with-ecopulse-insight.jpg",
+    "featured": false,
+    "keywords": [
+      "Edge AI",
+      "Energy Analytics",
+      "EcoPulse",
+      "Hardware IoT",
+      "Predictive Monitoring",
+      "TinyML",
+      "ESP32"
+    ]
+  },
+  {
+    "id": "ite-chow-hawkerhub",
+    "sn": 6,
+    "title": "ITE Chow",
+    "shortTitle": "ITE Chow",
+    "category": "Social Impact",
+    "synopsis": "ITE Chow is basically like a Grab app but custom-made for our campus to help us skip the crazy long lunch lines and save time, especially for those staying back late for CCAs. Just like ordering self-collection on Grab, we can just open the app, look through the canteen menus, and order our food with one click. What makes it super cool is that we are using AI to look at how busy the stalls are and give us an accurate estimated waiting time, so we know exactly when to walk over and grab our food instead of standing around waiting. For the aunties and uncles running the stalls, the app works like a vendor terminal to help them manage orders easily and clear the crowd, making lunchtime way better for everyone at CW.",
+    "shortSynopsis": "ITE Chow is basically like a Grab app but custom-made for our campus to help us skip the crazy long lunch lines and save time, especially for those staying back late for CCAs. Just like ordering self-collection on Grab, we can just open the app, look through the canteen menus, and order our food with one click.",
+    "innovation": "The core innovation of HawkerHub lies in transitioning a traditional, manual ordering process into a streamlined digital workflow. The platform is designed with distinct interfaces tailored to specific user roles: \nCustomers/Students: Upload their health profile and get recommended menus. Can browse stalls, add items to a digital cart, confirm self-collection, and track their order status in real-time. \nStall Owners: Are equipped with a digital dashboard to manage their menus, view incoming orders, update preparation statuses, and alleviate order congestion. \nAdministrators: Have access to backend tools to manage users, oversee stalls, and generate platform reports.",
+    "benefit": "Implementing the HawkerHub system offers several distinct advantages for both the customers/students and the canteen vendors:\na. Reduced Queue Lengths: By allowing advance ordering, the platform minimizes physical lines and relieves overcrowding at the stalls. \nb. Time Savings: Students recover valuable rest and learning time that is typically lost to manual queuing. \nc. Improved Accuracy: The digital ticketing system prevents communication errors and order mistakes between customers and stall owners. \nd. Efficient Operations: Stall owners benefit from better order management, leading to smoother and more efficient canteen operations. \ne. Enhanced Experience: The system supports broader digital transformation goals while significantly improving the overall customer experience for students and staff. \nf. Improved Dietary Habits: The customers are able to get the recommended foods based on their health profile and get the recommended foods.",
+    "display": {
+      "tagline": "Streamlines campus dining with mobile ordering, self-collection, and student meal support.",
+      "problem": "Long lunch canteen queues cause students to rush meals or miss lunch during hectic project and CCA schedules.",
+      "solution": "Students developed a campus mobile app that allows students to browse stall menus, place one-click self-collection orders, and access meal assistance.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Browse",
+          "description": "Students view real-time canteen stall menus and availability on mobile."
+        },
+        {
+          "step": "2",
+          "title": "Pre-Order",
+          "description": "Orders food with one click for self-collection at designated times."
+        },
+        {
+          "step": "3",
+          "title": "Support",
+          "description": "Discreetly applies meal vouchers for students receiving welfare support."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Campus Break Sync",
+          "description": "Designed specifically around school timetable breaks and canteen peak hours."
+        },
+        {
+          "title": "Integrated Welfare Aid",
+          "description": "Blends meal assistance directly into standard app ordering with privacy."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Eliminates Queueing",
+          "description": "Saves substantial time during short breaks between classes and CCAs."
+        },
+        {
+          "title": "Student Well-Being",
+          "description": "Ensures equitable, dignified access to nutritious meals for all students."
+        }
+      ],
+      "highlightMetric": "One-Click Self-Collection",
+      "technologyTags": [
+        "Mobile Application",
+        "Campus Services",
+        "Food Tech",
+        "Social Welfare"
+      ]
+    },
+    "lecturers": [
+      "Phie Lip",
+      "Terence"
+    ],
+    "students": [
+      "Siti Syuhaidah binte Muhammad",
+      "Brian Tan Jun Sheng",
+      "Ting Teck Hong",
+      "Aden Tee Ren Qi"
+    ],
+    "course": "Higher NITEC in Security System Integration",
+    "partner": "",
+    "photos": [
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/geminigeneratedimagea7xploa7xploa7xp.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Gemini_Generated_Image_a7xploa7xploa7xp.png"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/geminigeneratedimageai1103ai1103ai11.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Gemini_Generated_Image_ai1103ai1103ai11.jpeg"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/geminigeneratedimagegqvkntgqvkntgqvk.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Gemini_Generated_Image_gqvkntgqvkntgqvk.jpeg"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/geminigeneratedimagexfmkmhxfmkmhxfmk.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Gemini_Generated_Image_xfmkmhxfmkmhxfmk.jpeg"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/hawkerhubpostera2landscape300dpi.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "HawkerHub_Poster_A2_Landscape_300DPI.png"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/ite-chow-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "ITE Chow Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/screenshot-2026-05-18-093715.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Screenshot 2026-05-18 093715.png"
+      },
+      {
+        "url": "./assets/projects/ite-chow-hawkerhub/student-photo.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "student photo.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/ite-chow-hawkerhub/student-photo.jpg",
+    "featured": false,
+    "keywords": [
+      "Food Ordering",
+      "Community Meal Care",
+      "Mobile Application",
+      "Campus Support",
+      "Smart Services",
+      "Social Impact"
+    ]
+  },
+  {
+    "id": "automated-invoice-processor",
+    "sn": 7,
+    "title": "Automated Invoice Processor",
+    "shortTitle": "Automated Invoice Processor",
+    "category": "Digital Trust",
+    "synopsis": "The Automated Invoice Processor is designed to eliminate the tedious manual entry of roughly 1,000 monthly invoices for the School of Hospitality staff. By using an AI-powered application to automatically extract key details, such as the company name, invoice number, cost, GST and total cost, the project transforms unstructured vendor documents into a clean Excel file. This allows staff to skip the time-consuming typing phase and move straight to the critical verification step. The application also check the retrieved data against system records for accurate Purchase Order submission.\n\nThe solution incorporates Large Language Model (LLM) capabilities to intelligently query and validate invoice information, including balances, vendor names, GST values, costs and other financial details. This enhances the accuracy and flexibility of the verification process by enabling natural language checks and contextual understanding of invoice content. The project was developed using a vibe coding approach, leveraging rapid AI-assisted development workflows together with LLM API integrations to accelerate prototyping, implementation and refinement of the application.",
+    "shortSynopsis": "The Automated Invoice Processor is designed to eliminate the tedious manual entry of roughly 1,000 monthly invoices for the School of Hospitality staff. By using an AI-powered application to automatically extract key details, such as the company name, invoice number, cost, GST and total cost, the project transforms unstructured vendor documents into a clean Excel file.",
+    "innovation": "The solution moves beyond conventional OCR and rule-based automation in three distinct ways.\n\nFirst, it employs a *self-reflective confidence layer* — when the AI agent is uncertain about an extraction, it autonomously escalates to a more capable model (Flash Lite → Flash → Pro) before finalising the result, without any human intervention. This mimics human judgement in a way rigid rule-based systems cannot.\n\nSecond, the system is *truly agentic* — it does not simply extract data but orchestrates an end-to-end workflow autonomously: extracting invoice data, validating it, cross-referencing vendor reports, identifying discrepancies, preparing PO-ready records, and triggering exception alerts. Each step is driven by AI decision-making rather than pre-programmed rules.\n\nThird, it handles *unstructured, multi-format supplier invoices without templates* — adapting to varying layouts across different vendors, something traditional automation tools require costly and time-consuming configuration to achieve.\n\nTogether, these innovations reframe automation from a passive extraction tool into an active, decision-making agent — a meaningful leap for administrative operations in an educational institution.",
+    "benefit": "Significant manhour savings: The system automates invoice data extraction and comparison with vendor reports. Based on 1,000 invoices per month and an average of 3 minutes per invoice, the current process requires approximately 50 manhours per month. Automation allows staff to focus only on invoices with discrepancies, saving about 600 manhours annually.\n\nElimination of manual transcription errors: The automated workflow removes manual data entry into Excel and eliminates transcription errors caused by human fatigue. This provides consistent and reliable invoice data for Purchase Order processing.\n\nZero additional operating costs: The application is designed for efficient day-to-day operation, allowing SOH to use the system without additional operating costs for routine invoice processing.\n\nEasy deployment and scalability: Packaged as a portable .exe file, the application requires no complex installation and can be easily deployed to other users or departments.\n\nBetter use of staff resources: Staff can focus on exception handling, supplier management, and procurement support instead of repetitive administrative work.",
+    "display": {
+      "tagline": "Automates monthly invoice data extraction into structured spreadsheets using AI OCR.",
+      "problem": "Staff manually process roughly 1,000 vendor invoices each month, consuming valuable hours and risking typographical errors.",
+      "solution": "Students built an AI document processing system that automatically extracts vendor names, invoice numbers, costs, and GST into organized spreadsheets.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Ingest",
+          "description": "Staff upload PDF or scanned image vendor invoices in batches."
+        },
+        {
+          "step": "2",
+          "title": "Extract",
+          "description": "AI OCR recognizes key financial fields and invoice line-item breakdowns."
+        },
+        {
+          "step": "3",
+          "title": "Export",
+          "description": "Compiles data into a clean, formatted Excel file for administrative review."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Flexible Layout Parsing",
+          "description": "Extracts data from varied vendor formats without requiring rigid templates."
+        },
+        {
+          "title": "Automated Tax Cross-Check",
+          "description": "Simultaneously extracts and cross-validates subtotal, GST, and total cost."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Massive Time Savings",
+          "description": "Eliminates tedious manual entry across approximately 1,000 monthly invoices."
+        },
+        {
+          "title": "Data Accuracy",
+          "description": "Substantially reduces human entry errors and administrative backlog."
+        }
+      ],
+      "highlightMetric": "1,000 Invoices/Month Automated",
+      "technologyTags": [
+        "AI OCR",
+        "Document Processing",
+        "RPA",
+        "Process Automation"
+      ]
+    },
+    "lecturers": [
+      "Ng Yao Kheng"
+    ],
+    "students": [
+      "Koh Jian Hong Danny",
+      "Chiam Teng Yee Kayson",
+      "Toh Jun Lok Jorel"
+    ],
+    "course": "Higher NITEC IT Systems & Networks",
+    "partner": "Amber @ West",
+    "photos": [
+      {
+        "url": "./assets/projects/automated-invoice-processor/automated-invoice-processor-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Automated Invoice Processor Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/automated-invoice-processor/automated-invoice-processor.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Automated Invoice Processor.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/automated-invoice-processor/automated-invoice-processor.jpg",
+    "featured": false,
+    "keywords": [
+      "Document OCR",
+      "Process Automation",
+      "RPA",
+      "Digital Trust",
+      "Workflow Automation",
+      "Enterprise Systems"
+    ]
+  },
+  {
+    "id": "smart-ai-operations-agent",
+    "sn": 8,
+    "title": "AI Operations Agent",
+    "shortTitle": "AI Operations Agent",
+    "category": "AI & Data",
+    "synopsis": "Smart AI Factory Agent combines AI agents, automation and Digital Twin technology to create an intelligent supervisory platform for industrial operations. Operators can use natural language through chat or web interfaces to monitor equipment, control processes, troubleshoot issues and generate reports. A real-time Digital Twin mirrors the physical factory, enabling users to visualize operations and test scenarios safely. Large Language Models (LLMs) provide contextual reasoning and intelligent workflow orchestration, while AI-assisted development and vibe coding accelerate prototyping and system integration. The project bridges human intent, AI intelligence and physical factory operations to improve efficiency, reduce manual effort and support faster decision-making.",
+    "shortSynopsis": "Smart AI Factory Agent combines AI agents, automation and Digital Twin technology to create an intelligent supervisory platform for industrial operations. Operators can use natural language through chat or web interfaces to monitor equipment, control processes, troubleshoot issues and generate reports.",
+    "innovation": "The key innovation of the Smart AI Factory Agent is the integration of Agentic AI, Digital Twin technology and industrial automation into a unified intelligent platform. Unlike a conventional chatbot, the AI Agent can understand user intent, determine the required actions and coordinate factory processes to achieve the desired outcome.\nThe orchestration layer connects natural-language instructions with industrial operations, enabling users to monitor equipment, control processes, check sensors and generate reports through simple conversations.\nA real-time Digital Twin provides a virtual representation of the factory, allowing users to monitor operations, visualize changes and validate scenarios alongside physical processes. LLMs and AI-assisted vibe coding further support intelligent interaction and faster system development.\n\nKey innovations include:\n\n- Agentic AI that transforms user intent into automated actions.\n- Integration of LLMs with real industrial systems, beyond a standalone chatbot.\n- Real-time synchronization between the physical factory and Digital Twin.\n- Natural-language and web-based control of factory operations.\n- Intelligent orchestration of multi-step workflows.\n- Modular architecture that can be extended to more machines, sensors and processes.\n- AI-assisted development for faster prototyping and integration.",
+    "benefit": "The Smart AI Factory Agent improves manufacturing efficiency by providing a unified and intelligent way to manage factory operations. Through natural-language commands via Telegram or web interfaces, operators can monitor equipment, control processes, check sensor conditions and generate reports without switching between multiple systems.\n\nBy combining real-time factory data with a Digital Twin, operators can visualize operations, identify potential issues and respond more quickly. AI-driven workflow orchestration also automates routine tasks, reduces manual effort and supports faster, more informed decision-making.\n\nKey benefits include:\n\n- Reduces manual effort through intelligent automation.\n- Improves operational visibility with real-time Digital Twin monitoring.\n- Enables faster and more informed decision-making.\n- Reduces human error in repetitive tasks.\n- Provides intuitive natural-language interaction with factory systems.\n- Supports remote monitoring through web and Telegram interfaces.\n- Provides a scalable foundation for future smart manufacturing and Industry 4.0 applications.",
+    "display": {
+      "tagline": "Monitors and controls factory equipment via natural language, automation, and digital twins.",
+      "problem": "Supervising complex factory machinery requires specialized technical training, multi-step navigation, and manual adjustments.",
+      "solution": "In partnership with Bosch Rexroth and BJ System, students developed an AI supervisory agent with digital twin simulation for conversational factory control.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Connect",
+          "description": "Telemetry streams from Bosch Rexroth industrial hardware into a virtual digital twin."
+        },
+        {
+          "step": "2",
+          "title": "Query",
+          "description": "Operators converse with the AI agent using natural language in chat or web UI."
+        },
+        {
+          "step": "3",
+          "title": "Control",
+          "description": "Agent diagnoses faults, recommends actions, and adjusts machine parameters."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Digital Twin Synergy",
+          "description": "Mirrors physical machinery states in a virtual model for safe predictive testing."
+        },
+        {
+          "title": "Conversational Factory Agent",
+          "description": "Enables plant operators to query system metrics and trigger workflows in plain English."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Predictive Maintenance",
+          "description": "Flags abnormal equipment conditions before breakdowns happen on the shop floor."
+        },
+        {
+          "title": "Accessible Operations",
+          "description": "Simplifies complex automation controls for technician monitoring and training."
+        }
+      ],
+      "highlightMetric": "Bosch Rexroth Industry Co-Dev",
+      "technologyTags": [
+        "Digital Twin",
+        "Industrial AI",
+        "Bosch Rexroth",
+        "Conversational Agents",
+        "Automation"
+      ]
+    },
+    "lecturers": [
+      "Vick Chi Jun Shiang"
+    ],
+    "students": [
+      "Emmanuel Sai Guanyu",
+      "Muhammad Izzul Islam bin Norhisham",
+      "Nur Rabiatul Adawiyah binte Zakba"
+    ],
+    "course": "Higher NITEC IT Systems & Networks",
+    "partner": "Bosch Rexroth\nBJ System Pte Ltd",
+    "photos": [
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/ai-operation-agent-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "AI Operation Agent Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentdashboard.jpg",
+        "caption": "System analytics and software interface",
+        "type": "dashboard",
+        "originalFilename": "SmartAI_FactoryAgent_Dashboard.png"
+      },
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentdigitaltwin.jpg",
+        "caption": "System analytics and software interface",
+        "type": "dashboard",
+        "originalFilename": "SmartAI_FactoryAgent_DigitalTwin.png"
+      },
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentoriginalgroupphoto01.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "SmartAI_FactoryAgent_OriginalGroupPhoto01.JPG"
+      },
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentoriginalgroupphoto02.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "SmartAI_FactoryAgent_OriginalGroupPhoto02.JPG"
+      },
+      {
+        "url": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentposter.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "SmartAI_FactoryAgent_Poster.png"
+      }
+    ],
+    "heroPhoto": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentoriginalgroupphoto01.jpg",
+    "featured": false,
+    "keywords": [
+      "Digital Twin",
+      "Factory Agent",
+      "Industrial AI",
+      "Predictive Operations",
+      "Bosch Rexroth",
+      "Automation"
+    ]
+  },
+  {
+    "id": "roadside-warning-robot",
+    "sn": 9,
+    "title": "Remote-Controlled Roadside Warning Robot",
+    "shortTitle": "Remote-Controlled Roadside Warning Robot",
+    "category": "Automation / AIoT / Robotics / Digital Systems",
+    "synopsis": "Placing a breakdown warning triangle on expressways or remote roads can expose drivers to unnecessary risk, especially during poor visibility, heavy rain, or when the vehicle is stopped near bends or road crests. Drivers may need to walk along the road shoulder to position the warning triangle, increasing their exposure to approaching traffic. This project proposes a remote-controlled roadside warning robot that allows the driver to deploy and position a warning triangle at a safe distance behind the vehicle without having to walk along the roadside. Mounted on a motorised mobile platform, the robot can be controlled using a handheld remote control or mobile device and positioned approximately 20–50 metres behind the vehicle, with a potential range of up to 100 metres. High-visibility markings and LED lighting improve its visibility during both day and night conditions. Designed for low-speed operation, stable positioning and safe deployment, the prototype provides a practical and user-friendly solution to reduce drivers' exposure to roadside hazards during vehicle breakdowns.",
+    "shortSynopsis": "Placing a breakdown warning triangle on expressways or remote roads can expose drivers to unnecessary risk, especially during poor visibility, heavy rain, or when the vehicle is stopped near bends or road crests. Drivers may need to walk along the road shoulder to position the warning triangle, increasing their exposure to approaching traffic.",
+    "innovation": "The key innovation of the Remote-Controlled Roadside Warning Robot lies in transforming the conventional static warning triangle into an actively deployable mobile safety system. Rather than requiring a driver to physically walk along the roadside to place a warning device, the solution combines a motorised platform, remote-control capability and enhanced visual warning features to allow deployment from a safer distance.\n\nThe project addresses a practical safety gap in conventional roadside breakdown procedures. While traditional warning triangles provide an important visual alert, their placement may expose drivers to the very traffic hazard they are attempting to warn others about. By introducing remote mobility, the prototype reduces this exposure while retaining the familiar function of a roadside warning triangle.\n\nIts low-speed and stable operating design prioritises safe deployment rather than speed, making the technology appropriate for roadside emergency applications. The integration of high-visibility markings and LED lighting further extends the effectiveness of the warning system across different lighting and weather conditions.\n\nThe innovative features include:\n\n* Conversion of a passive warning triangle into a remotely deployable mobile safety device.\n* Remote-controlled positioning that reduces the need for drivers to enter hazardous roadside areas.\n* Integration of mobility, visibility and warning functions within a single compact platform.\n* Flexible deployment at approximately 20–50 metres, with potential operational range of up to 100 metres.\n* Enhanced day-and-night visibility through reflective/high-visibility elements and LED lighting.\n* Low-speed operation designed specifically for controlled and safe roadside deployment.\n* Potential for future enhancements such as cameras, obstacle detection, autonomous positioning, location tracking and vehicle-to-device connectivity.\n\nThe project demonstrates how relatively simple robotics and remote-control technologies can be applied innovatively to solve a real-world road safety problem and reduce human exposure to preventable roadside hazards.",
+    "benefit": "The Remote-Controlled Roadside Warning Robot improves driver safety during vehicle breakdowns by reducing the need for drivers to walk along expressways or roadside shoulders to position a warning triangle. This is particularly beneficial during poor visibility, heavy rain, night-time conditions, or when a vehicle has stopped near a bend or road crest where approaching motorists may have limited reaction time.\n\nUsing a handheld remote control or mobile device, the driver can deploy and position the warning robot approximately 20–50 metres behind the stationary vehicle while remaining at a safer location. Its high-visibility markings and LED lighting provide additional visual warning to approaching motorists during both day and night conditions.\n\nThe solution also improves convenience and response time during emergencies. Instead of manually carrying and positioning a conventional warning triangle, the motorised platform allows the warning device to be moved remotely and repositioned when required.\n\nOverall, the project provides the following benefits:\n\n* Reduces drivers' exposure to moving traffic during roadside emergencies.\n* Improves safety during breakdowns on expressways, remote roads and low-visibility locations.\n* Enables remote deployment and positioning of the warning triangle.\n* Provides enhanced visibility through high-visibility markings and LED lighting.\n* Allows the warning device to be repositioned without requiring the driver to return to the roadway.\n* Supports operation from a safer location using a handheld remote control or mobile device.\n* Provides a practical and user-friendly enhancement to existing roadside warning practices.\n* Has potential application for motorists, roadside assistance teams, maintenance crews and emergency response operations.",
+    "display": {
+      "tagline": "Deploys a motorized warning triangle to roadside breakdowns without drivers walking in traffic.",
+      "problem": "Manually placing warning triangles on expressways exposes stranded motorists to high-speed approaching traffic.",
+      "solution": "Students built a motorized, remote-controlled robot that safely drives a reflective warning triangle and strobe lights behind a stopped vehicle.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Deploy",
+          "description": "Motorist unloads the compact motorized warning robot from the vehicle trunk."
+        },
+        {
+          "step": "2",
+          "title": "Drive",
+          "description": "Drives the robot backwards along the shoulder via handheld remote control."
+        },
+        {
+          "step": "3",
+          "title": "Alert",
+          "description": "High-visibility triangle and bright LED strobes warn oncoming traffic from a distance."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Remote Marker Placement",
+          "description": "Keeps motorists safely behind guardrails while positioning the warning marker."
+        },
+        {
+          "title": "Active Warning Strobes",
+          "description": "Combines physical reflective geometry with bright flashing electronic alerts."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Prevents Secondary Collisions",
+          "description": "Drastically reduces driver exposure to collisions during highway breakdowns."
+        },
+        {
+          "title": "Emergency Readiness",
+          "description": "Provides a compact, easy-to-use roadside safety tool for passenger vehicles."
+        }
+      ],
+      "highlightMetric": "Remote Hazard Placement",
+      "technologyTags": [
+        "Robotics",
+        "Road Safety",
+        "Remote Control",
+        "IoT Hardware"
+      ]
+    },
+    "lecturers": [
+      "Tan Choon Leng"
+    ],
+    "students": [
+      "Loh Jun Hao Carlin",
+      "Nufael Thaqif bin Mohammad Nazri",
+      "Sukriah binte Mohamed Raffi"
+    ],
+    "course": "Higher NITEC IT Systems & Networks",
+    "partner": "",
+    "photos": [
+      {
+        "url": "./assets/projects/roadside-warning-robot/remote-controlled-roadside-warning-robot-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Remote-Controlled Roadside Warning Robot Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/roadside-warning-robot/teamphoto-remote-controlled-roadside-warning-robot-02.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "TeamPhoto-Remote-controlled Roadside Warning Robot 02.png"
+      }
+    ],
+    "heroPhoto": "./assets/projects/roadside-warning-robot/teamphoto-remote-controlled-roadside-warning-robot-02.jpg",
+    "featured": false,
+    "keywords": [
+      "Robotics",
+      "Roadside Safety",
+      "Remote Control",
+      "IoT Alert",
+      "Microcontrollers",
+      "Vehicular Safety"
+    ]
+  },
+  {
+    "id": "lipreading-ai",
+    "sn": 10,
+    "title": "LipReading AI",
+    "shortTitle": "LipReading AI",
+    "category": "AI & Data",
+    "synopsis": "A multimodal AI system that combines motion image analysis for LipReading and Speech-to-Text to explore use-cases for Smart Lock authentication and Smart Classroom transcription. \n\nWhile singular model build for static image or speech-to-text in a given language is common now, more advanced tier such as video analysis is still emerging. \n\nExploration of AI system combination for multimodal use-cases will be one area that students need to gain early exposure to, in order to build a sense/ intuition for contextual video understanding, embodied AI, and design of future intelligent environments.",
+    "shortSynopsis": "A multimodal AI system that combines motion image analysis for LipReading and Speech-to-Text to explore use-cases for Smart Lock authentication and Smart Classroom transcription.",
+    "innovation": "The engineering design required to convert video to images, detect the face and focus into a small region of the face to extract the subtle lip movement across an extremely short time interval is the challenge. Our solution for it is the innovation. \n\nThe difficulty of the project problem is that it has to setup a stable data processing pipeline that can reliably target a small facial region within seconds and devise a motion signal for subtle movements. This is a whole new level of difficulty compared to a simpler problem of analysising 1-frame still images (which is already mature technology) or analysing large moving objects (which is maturing). The problem-space the team is exploring is detecting of subtle movement in small region space, and this is an emergent area in engineering.\n\nRounds of design and debugging to understand how to: \n1) capture a few seconds of video (because lip movements are not just covering small region image space, words themselves consists of lip movements happening in seconds)\n2) troubleshooting to solve jitter-smoothing (after noticing that re-detecting mouth position on every frame introduced a small tracking jitter which created fake motion signal that corrupts data - humans have minute movements even in seconds)\n3) finding a good open-source model for face detection that can also run on edge devices (after a crop locked onto an eyebrow)\n4) scaling issues - as a model is trained on more lip movements and words, its accuracy will drop drastically",
+    "benefit": "An assistive communication tech to give people who cannot speak reliably another way to express simple needs such as \"water\", \"help\", \"no\". \n\nOpens up a new security dimension to integrate into smart home devices, for silent commands for doors, lights and emergency systems - providing a silent channel when speaking is unsafe, impossible or impractical (e.g., someone forces you to open your digital house lock - you can tap an extra code with mouth movement \"help\" to trigger a silent security alert). \n\nFor intelligence needs, it can be an \"unusual\", \"hard to detect\" & \"less-predictable\" access barrier setup in websites or physical sites, allowing entry only to people with awareness of the special combination of visible/audible + non-audible (mouth movement) codes.",
+    "display": {
+      "tagline": "Combines visual lip movement recognition and speech-to-text for assistive communication and secure access.",
+      "problem": "Individuals with speech impairments struggle to communicate, while loud ambient noise disrupts standard voice recognition.",
+      "solution": "Students developed a multimodal AI system analyzing visual lip movements and audio to transcribe intended words for assistive and security use.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Track",
+          "description": "Computer vision detects the face and tracks fine lip contour motions in video."
+        },
+        {
+          "step": "2",
+          "title": "Classify",
+          "description": "Deep learning models classify subtle lip shapes into target words or phrases."
+        },
+        {
+          "step": "3",
+          "title": "Output",
+          "description": "Transcribes assistive communication phrases or authenticates smart lock access."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Visual Speech Recognition",
+          "description": "Decodes spoken intent visually even when background audio noise is extreme."
+        },
+        {
+          "title": "Dual Assistive & Security Mode",
+          "description": "Operates as an AAC communication tool and silent biometric access authenticator."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Assistive Communication",
+          "description": "Gives non-verbal individuals a reliable way to communicate essential daily needs."
+        },
+        {
+          "title": "Noise-Resistant Interaction",
+          "description": "Maintains transcription capability in noisy classrooms and industrial settings."
+        }
+      ],
+      "highlightMetric": "Multimodal Vision + Audio",
+      "technologyTags": [
+        "Computer Vision",
+        "Deep Learning",
+        "Lip Reading",
+        "Speech-to-Text",
+        "Accessibility"
+      ]
+    },
+    "lecturers": [
+      "Ho Wei Jing"
+    ],
+    "students": [
+      "Yong Ri Yao Flynn",
+      "Eng Hao Zhe",
+      "Fang Junjian"
+    ],
+    "course": "Higher NITEC in IT Applications Development",
+    "partner": "",
+    "photos": [
+      {
+        "url": "./assets/projects/lipreading-ai/lipreading-ai-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "LipReading AI Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/lipreading-ai/teamphotodigitaldragons.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "TeamPhoto_DigitalDragons.png"
+      },
+      {
+        "url": "./assets/projects/lipreading-ai/teamphotodigitaldragons2.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "TeamPhoto_DigitalDragons_2.jpg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/lipreading-ai/teamphotodigitaldragons2.jpg",
+    "featured": false,
+    "keywords": [
+      "Lip Reading",
+      "Speech-to-Text",
+      "Computer Vision",
+      "Assistive Tech",
+      "Deep Learning",
+      "Accessibility"
+    ]
+  },
+  {
+    "id": "nea-rag-sustainability-intel",
+    "sn": 11,
+    "title": "NEA RAG",
+    "shortTitle": "NEA RAG",
+    "category": "AI & Data",
+    "synopsis": "This project builds a smarter way to search and understand NEA's sustainability reports. By processing NEA annual reports, it organises the information into a connected map of facts and relationships , making it easy to ask questions, spot trends, and uncover insights across the reports, without having to read through everything manually.",
+    "shortSynopsis": "This project builds a smarter way to search and understand NEA's sustainability reports. By processing NEA annual reports, it organises the information into a connected map of facts and relationships , making it easy to ask questions, spot trends, and uncover insights across the reports, without having to read through everything manually.",
+    "innovation": "The NEA Knowledge Graph reframes how an AI system engages with organisational knowledge: instead of treating documents as flat text to search (as standard RAG does), it structures multi-modal inputs — reports, CCTV footage, audio logs, sensor readings, and geospatial data — into a connected knowledge graph where entities and their relationships are explicit and traversable. A Graph-RAG layer then lets an LLM convert natural-language questions into Cypher queries, walk the graph's actual causal and organisational connections, and generate answers that are grounded in a specific, auditable path rather than a plausible-sounding guess. This is paired with a dynamic schema that expands automatically as new data types are added, and a full guardrail architecture (input sanitisation, confidence thresholds, source-citation enforcement, audit logging) that makes the system's reasoning transparent and verifiable at every step — turning a black-box AI interaction into a traceable, decision-support tool.",
+    "benefit": "For NEA, the system converts knowledge that already exists but is unusable — scattered across EMPOWER, eRegistry, shared drives, and institutional memory — into something staff can actually query and act on. Officers who currently spend hours a week hunting across disconnected systems could get grounded answers in seconds, with every claim traceable back to its source documents and entities. Cross-divisional insight that's presently invisible (a Water Division project echoing an issue logged years ago in Environmental Health) becomes discoverable, recurring problems can be spotted before they escalate, and documentation gaps can be flagged proactively ahead of audits rather than after. Beyond day-to-day efficiency, the graph externalises institutional knowledge so it survives staff rotation, and its explainable, human-in-the-loop design directly supports NEA's RMS 2027 goals around knowledge accessibility, connectivity, and responsible AI governance.",
+    "display": {
+      "tagline": "Transforms annual sustainability reports into a searchable knowledge graph with AI-grounded retrieval.",
+      "problem": "Valuable institutional sustainability insights are buried across hundreds of pages of PDF reports, making manual research slow.",
+      "solution": "Students built a connected knowledge graph and RAG system allowing officers to query multi-year NEA sustainability reports with verifiable citations.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Extract",
+          "description": "Parses annual sustainability reports into interconnected entities and initiatives."
+        },
+        {
+          "step": "2",
+          "title": "Map",
+          "description": "Constructs a multi-year knowledge graph connecting projects, outcomes, and targets."
+        },
+        {
+          "step": "3",
+          "title": "Query",
+          "description": "RAG pipeline answers complex questions with exact citations back to original reports."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Connected Knowledge Graph",
+          "description": "Surfaces cross-divisional links between projects across different reporting years."
+        },
+        {
+          "title": "Verifiable Source Citations",
+          "description": "Ensures every generated claim is directly traceable to audited publication pages."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Accelerates Insights",
+          "description": "Turns hours of searching across disparate documents into instantaneous, grounded answers."
+        },
+        {
+          "title": "Preserves Institutional Memory",
+          "description": "Maintains continuity of sustainability insights across staff rotations and audits."
+        }
+      ],
+      "highlightMetric": "Knowledge Graph Grounded",
+      "technologyTags": [
+        "Knowledge Graph",
+        "RAG",
+        "LLM",
+        "Information Retrieval",
+        "NEA Reports"
+      ]
+    },
+    "lecturers": [
+      "Syazwan"
+    ],
+    "students": [
+      "Javier Teo Kai Jie",
+      "Davia Yew Cheng Le",
+      "Dylan Liu Yixun"
+    ],
+    "course": "Higher NITEC in AI Applications",
+    "partner": "NEA",
+    "photos": [
+      {
+        "url": "./assets/projects/nea-rag-sustainability-intel/nea-rag-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "NEA RAG Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/nea-rag-sustainability-intel/nearagoriginal.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "NEA_RAG_original.HEIC"
+      }
+    ],
+    "heroPhoto": "./assets/projects/nea-rag-sustainability-intel/nearagoriginal.jpg",
+    "featured": false,
+    "keywords": [
+      "Retrieval-Augmented Generation",
+      "Knowledge Graph",
+      "RAG",
+      "LLM",
+      "Information Retrieval",
+      "Sustainability Reports",
+      "NEA"
+    ]
+  },
+  {
+    "id": "senior-guard-ai",
+    "sn": 12,
+    "title": "Senior Guard AI (Edge AI for Safe Aging)",
+    "shortTitle": "Senior Guard AI",
+    "category": "Social Impact",
+    "synopsis": "Senior Guard AI is an edge-based fall detection system designed to help elderly people who live alone stay safer at home. A Raspberry Pi 5 with a camera runs a custom-trained YOLO vision model in real time to recognise standing, sitting, lying, and falling postures. When a fall is detected, the system raises alerts through a local caregiver dashboard and optional text notifications — without sending video to the cloud. The project addresses a growing need in ageing Singapore: faster response after a fall, while protecting privacy and avoiding subscription-based smart cameras.",
+    "shortSynopsis": "Senior Guard AI is an edge-based fall detection system designed to help elderly people who live alone stay safer at home. A Raspberry Pi 5 with a camera runs a custom-trained YOLO vision model in real time to recognise standing, sitting, lying, and falling postures.",
+    "innovation": "Combines student-trained computer vision (YOLOv8) with on-device inference on low-cost edge hardware, so detection runs offline on the local network. Video stays on the Pi; only lightweight status telemetry (position, confidence, alert flag) may be shared optionally. The architecture is designed for a Raspberry Pi AI HAT+ with Hailo acceleration in production, while the current prototype already demonstrates end-to-end detection, live LAN preview, and dashboard monitoring on CPU inference.",
+    "benefit": "Reduces reliance on cloud cameras that require monthly fees and continuous internet, and avoids uploading sensitive home video. Caregivers and family can monitor status over the local network during demos or home trials, and receive timely fall alerts so help can be dispatched sooner. Supports digital readiness by showing how students can build practical, privacy-preserving AI for community eldercare rather than consumer surveillance products.",
+    "display": {
+      "tagline": "Detects elderly falls in real time on edge hardware without sending sensitive video to the cloud.",
+      "problem": "Seniors living alone face grave risks from unassisted falls, while cloud smart cameras compromise privacy and require monthly fees.",
+      "solution": "Students built an edge computer vision system running YOLOv8 on a Raspberry Pi 5 to recognize postures and alert caregivers locally without cloud video.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Capture",
+          "description": "Camera feeds video directly into local Raspberry Pi 5 memory."
+        },
+        {
+          "step": "2",
+          "title": "Detect",
+          "description": "Custom YOLOv8 vision model identifies standing, sitting, lying, and falling postures."
+        },
+        {
+          "step": "3",
+          "title": "Alert",
+          "description": "Instantly triggers local caregiver dashboard alarms and optional SMS notifications."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "100% On-Device Inference",
+          "description": "All video frames stay strictly inside the home; zero private video leaves the device."
+        },
+        {
+          "title": "Zero Subscription Cost",
+          "description": "Affordable hardware setup avoiding monthly smart camera cloud fees."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Protects Senior Privacy",
+          "description": "Maintains dignity in private living spaces while providing continuous fall safety."
+        },
+        {
+          "title": "Fast Emergency Response",
+          "description": "Notifies caregivers immediately so urgent assistance can be dispatched promptly."
+        }
+      ],
+      "highlightMetric": "100% On-Device Video Privacy",
+      "technologyTags": [
+        "Edge AI",
+        "YOLOv8",
+        "Raspberry Pi 5",
+        "Computer Vision",
+        "Elderly Care"
+      ]
+    },
+    "lecturers": [
+      "Tan Hsu-Ling"
+    ],
+    "students": [
+      "Jonathan Chew Yong Sheng",
+      "Alston Tang Xing Le",
+      "Chen Yuxin",
+      "Lara Quah Sheen Sun",
+      "Liew Xin Wei"
+    ],
+    "course": "Higher NITEC in AI Applications",
+    "partner": "Fei Yue",
+    "photos": [
+      {
+        "url": "./assets/projects/senior-guard-ai/senior-guard-dashboard-snapshot.jpg",
+        "caption": "System analytics and software interface",
+        "type": "dashboard",
+        "originalFilename": "Senior Guard - dashboard snapshot.jpeg"
+      },
+      {
+        "url": "./assets/projects/senior-guard-ai/senior-guard-demo-at-fei-yue.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Senior Guard - demo at fei yue.jpeg"
+      },
+      {
+        "url": "./assets/projects/senior-guard-ai/senior-guard-full-setup.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Senior Guard - full setup.jpeg"
+      },
+      {
+        "url": "./assets/projects/senior-guard-ai/senior-guard-presenting-to-guests-of-honour.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "Senior Guard - presenting to guests of honour.jpeg"
+      },
+      {
+        "url": "./assets/projects/senior-guard-ai/senior-guard-ai-photos-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Senior Guard AI photos Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/senior-guard-ai/seniorguardaioriginal.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "Senior_Guard_AI_original.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/senior-guard-ai/senior-guard-demo-at-fei-yue.jpg",
+    "featured": false,
+    "keywords": [
+      "Edge AI",
+      "Fall Detection",
+      "Elderly Care",
+      "YOLOv8",
+      "Raspberry Pi 5",
+      "Computer Vision",
+      "Healthcare",
+      "Fei Yue"
+    ]
+  },
+  {
+    "id": "virtual-garden-xr",
+    "sn": 13,
+    "title": "Virtual Garden",
+    "shortTitle": "Virtual Garden",
+    "category": "Sustainability",
+    "synopsis": "Preserving knowledge and connecting communities through immersive technology by using cutting-edge tools like Xreal (VR Glasses) to create immersive garden experience",
+    "shortSynopsis": "Preserving knowledge and connecting communities through immersive technology by using cutting-edge tools like Xreal (VR Glasses) to create immersive garden experience",
+    "innovation": "Combines 360-degree spatial capture, mixed-reality viewing, Unity and Xreal environments, interactive virtual-garden design tools, educational overlays, and AI-driven plant monitoring in one scalable digital botanical-twin platform. The staged workflow captures real spaces, optimizes them for real-time use, adds interaction and personalization, and validates the experience through pilot testing and user feedback.",
+    "benefit": "Expands access to nature for users with physical mobility constraints, enables immersive learning about plant ecosystems, supports eco-friendly campus-living choices, and provides a reusable digital framework for biodiversity education and community stewardship. The same virtual-environment approach can also support campus and hotel-vicinity promotional tours.",
+    "display": {
+      "tagline": "Preserves biodiversity and connects communities through immersive VR/AR mixed-reality garden environments.",
+      "problem": "Individuals with physical mobility limitations and remote learners face restricted access to botanical spaces and nature education.",
+      "solution": "In collaboration with NParks, students developed an immersive mixed-reality botanical twin combining 360 spatial capture and Xreal AR glasses.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Capture",
+          "description": "360-degree spatial scanning records real flora, ecosystems, and garden pathways."
+        },
+        {
+          "step": "2",
+          "title": "Simulate",
+          "description": "Builds interactive 3D virtual environments in Unity optimized for Xreal glasses."
+        },
+        {
+          "step": "3",
+          "title": "Explore",
+          "description": "Users navigate virtual plant ecosystems with educational information overlays."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Spatial XR Botanical Twin",
+          "description": "Brings real botanical spaces into high-fidelity interactive mixed reality."
+        },
+        {
+          "title": "Multi-Platform Access",
+          "description": "Supports immersive Xreal AR glasses and standard interactive screen devices."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Inclusive Nature Access",
+          "description": "Enables seniors and individuals with mobility constraints to experience nature virtually."
+        },
+        {
+          "title": "Biodiversity Stewardship",
+          "description": "Provides an engaging digital platform for ecosystem education and outreach."
+        }
+      ],
+      "highlightMetric": "NParks Collaboration",
+      "technologyTags": [
+        "Virtual Reality",
+        "Mixed Reality",
+        "Unity",
+        "Xreal Glasses",
+        "NParks"
+      ]
+    },
+    "lecturers": [
+      "John Chia"
+    ],
+    "students": [
+      "Toh Jun Heng Gregory",
+      "Sally Goh Kai Xuan",
+      "Gladys Goh Jia Ning",
+      "Muhammad Edry Xander bin Rosli"
+    ],
+    "course": "Higher NITEC in IT Applications Development",
+    "partner": "NPark",
+    "photos": [
+      {
+        "url": "./assets/projects/virtual-garden-xr/team-excite-virtual-garden.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "Team Excite(Virtual Garden).png"
+      },
+      {
+        "url": "./assets/projects/virtual-garden-xr/virtual-garden-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Virtual Garden Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/virtual-garden-xr/virtual-garden-projectbooklet2.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "Virtual Garden Project_Booklet2.png"
+      }
+    ],
+    "heroPhoto": "./assets/projects/virtual-garden-xr/team-excite-virtual-garden.jpg",
+    "featured": false,
+    "keywords": [
+      "Virtual Reality",
+      "Mixed Reality",
+      "Spatial Computing",
+      "XR",
+      "Ecosystem Education",
+      "Nature Conservation",
+      "NParks"
+    ]
+  },
+  {
+    "id": "ecoscan-smart-recycling",
+    "sn": 14,
+    "title": "EcoScan – Smart Recycling Assistant",
+    "shortTitle": "EcoScan – Smart Recycling Assistant",
+    "category": "Sustainability",
+    "synopsis": "Residents in older HDB estates often struggle to correctly dispose of clothes/textiles and small e-waste at blue recycling bins due to unclear rules and item-condition requirements. EcoScan is an AI-powered app that scans items, identifies recyclability (including multiple items in a single frame), and directs users to the correct disposal or drop-off locations, reducing contamination and recycling uncertainty.",
+    "shortSynopsis": "Residents in older HDB estates often struggle to correctly dispose of clothes/textiles and small e-waste at blue recycling bins due to unclear rules and item-condition requirements. EcoScan is an AI-powered app that scans items, identifies recyclability (including multiple items in a single frame), and directs users to the correct disposal or drop-off locations, reducing contamination and recycling uncertainty.",
+    "innovation": "EcoScan uses AI-powered image recognition to identify recyclable items in a photo and provide clear recycling instructions. It also connects users to information about nearby recycling points, making the recycling process simpler and more accessible. The project combines AI, sustainability, and location-based information into one easy-to-use platform.",
+    "benefit": "- Makes recycling easier by telling users how to dispose of an item correctly.\n- Reduces recycling contamination by helping users avoid putting the wrong items into recycling bins.\n- Improves accessibility by helping people quickly find nearby recycling points.\n- Raises environmental awareness by helping users understand proper recycling practices.\n- Encourages sustainable habits by making recycling more convenient in everyday situations.F4",
+    "display": {
+      "tagline": "Guides HDB residents to properly recycle clothes and e-waste using multi-item AI image recognition.",
+      "problem": "Residents often dispose of textiles and small e-waste incorrectly at blue bins due to unclear recycling rules.",
+      "solution": "Students built an AI assistant that scans multiple items in a photo, explains disposal rules, and points users to nearby drop-off points.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Snap",
+          "description": "Resident takes a photo of items intended for disposal or recycling."
+        },
+        {
+          "step": "2",
+          "title": "Classify",
+          "description": "AI image recognition identifies items and determines recyclability."
+        },
+        {
+          "step": "3",
+          "title": "Locate",
+          "description": "Provides item prep instructions and maps nearby dedicated recycling bins."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Multi-Item Frame Recognition",
+          "description": "Identifies and categorizes multiple diverse items in a single camera shot."
+        },
+        {
+          "title": "Location-Aware Mapping",
+          "description": "Directs users to specific e-waste and textile drop-off bins near their estate."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Reduces Bin Contamination",
+          "description": "Prevents non-recyclable materials from ruining recyclable blue bin contents."
+        },
+        {
+          "title": "Encourages Sustainable Habits",
+          "description": "Makes proper recycling convenient and straightforward in everyday life."
+        }
+      ],
+      "highlightMetric": "Multi-Item AI Vision",
+      "technologyTags": [
+        "AI Vision",
+        "Waste Classification",
+        "Sustainability",
+        "Location Services"
+      ]
+    },
+    "lecturers": [
+      "Lead Lecturer: Rajesh R Mohan",
+      "Class Advisor: Toh E Sheng"
+    ],
+    "students": [
+      "Pentibojana Bhavani Harsha"
+    ],
+    "course": "Higher NITEC in Electronics Engineering",
+    "partner": "SUTD",
+    "photos": [
+      {
+        "url": "./assets/projects/ecoscan-smart-recycling/ecoscan-smart-recycling-assistant-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "EcoScan – Smart Recycling Assistant Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/ecoscan-smart-recycling/ecoscan-smart-recycling-assistant.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "EcoScan – Smart Recycling Assistant.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/ecoscan-smart-recycling/ecoscan-smart-recycling-assistant.jpg",
+    "featured": false,
+    "keywords": [
+      "Image Recognition",
+      "Recycling Assistant",
+      "Computer Vision",
+      "Waste Classification",
+      "Community Green",
+      "Sustainability",
+      "SUTD"
+    ]
+  },
+  {
+    "id": "incluteach-autism-support",
+    "sn": 15,
+    "title": "IncluTeach – Inclusive Teaching Support for Students with Autism",
+    "shortTitle": "IncluTeach – Inclusive Teaching Support for Students with Autism",
+    "category": "Social Impact",
+    "synopsis": "Primary 1–3 mainstream teachers need support when interacting with students with autism (Level 1, mid- to high-functioning). IncluTeach is an AI-assisted suite of tools, including an emotional expression aid, lesson planner, and motor skills planner, that helps teachers plan activities aligned with MOE's lesson scope while supporting students with special needs to cope with sensory overload and integrate into mainstream classes.",
+    "shortSynopsis": "Primary 1–3 mainstream teachers need support when interacting with students with autism (Level 1, mid- to high-functioning). IncluTeach is an AI-assisted suite of tools, including an emotional expression aid, lesson planner, and motor skills planner, that helps teachers plan activities aligned with MOE's lesson scope while supporting students with special needs to cope with sensory overload and integrate into mainstream classes.",
+    "innovation": "IncluTeach integrates generative AI with inclusive education practices to provide teachers with practical, classroom-ready support. Rather than providing a single generic recommendation, the system helps educators adapt lesson activities, communication approaches and motor-skills exercises according to the needs of students with autism while maintaining the intended learning outcomes of the mainstream lesson.",
+    "benefit": "+ Reduces the preparation effort required for teachers to plan inclusive lessons.\n+ Supports students in expressing emotions and communicating their needs.\n+ Helps teachers anticipate and manage sensory overload in classroom activities.\n+ Provides suitable motor-skills activities to support students' developmental needs.\n+ Promotes greater participation and integration of students with autism in mainstream classes.\n+ Helps teachers build confidence in supporting diverse learning needs within an inclusive classroom.",
+    "display": {
+      "tagline": "Assists mainstream primary teachers with AI-adapted lesson plans and sensory management for autistic students.",
+      "problem": "Mainstream teachers need specialized support to adapt lessons for students with autism while maintaining standard MOE curriculum scope.",
+      "solution": "Students built an AI suite providing lesson planners, emotional expression aids, and motor skills activities for inclusive classrooms.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Input",
+          "description": "Teacher selects lesson topic, grade level, and intended curriculum outcomes."
+        },
+        {
+          "step": "2",
+          "title": "Adapt",
+          "description": "Generative AI creates tailored sensory strategies and motor-skill exercises."
+        },
+        {
+          "step": "3",
+          "title": "Teach",
+          "description": "Teacher applies classroom-ready aids to support student emotional regulation."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Curriculum-Aligned Inclusive AI",
+          "description": "Adapts mainstream syllabus activities specifically for diverse learning needs."
+        },
+        {
+          "title": "Sensory Overload Mitigation",
+          "description": "Provides actionable methods to anticipate and manage classroom sensory triggers."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Reduces Teacher Prep Burden",
+          "description": "Equips educators with practical inclusive adaptations in minutes."
+        },
+        {
+          "title": "Classroom Integration",
+          "description": "Supports students with autism to participate comfortably alongside peers."
+        }
+      ],
+      "highlightMetric": "MOE Consultation & SUTD Support",
+      "technologyTags": [
+        "Generative AI",
+        "Inclusive Education",
+        "Special Needs Support",
+        "MOE Curriculum"
+      ]
+    },
+    "lecturers": [
+      "Lead Lecturer: Rajesh R Mohan",
+      "Class Advisor: Tan Choon Leng"
+    ],
+    "students": [
+      "Yeong Wei Hong Kenneth"
+    ],
+    "course": "Higher NITEC in IT Systems & Networks",
+    "partner": "SUTD, MOE (Consultation)",
+    "photos": [
+      {
+        "url": "./assets/projects/incluteach-autism-support/chatgpt-image-oct-6-2026-081957-pm.jpg",
+        "caption": "Project prototype and hardware setup",
+        "type": "prototype",
+        "originalFilename": "ChatGPT Image Oct 6, 2026, 08_19_57 PM.png"
+      },
+      {
+        "url": "./assets/projects/incluteach-autism-support/whatsapp-image-2026-10-01-at-90223-pm-1.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "WhatsApp Image 2026-10-01 at 9.02.23 PM (1).jpeg"
+      },
+      {
+        "url": "./assets/projects/incluteach-autism-support/whatsapp-image-2026-10-01-at-90223-pm.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "WhatsApp Image 2026-10-01 at 9.02.23 PM.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/incluteach-autism-support/whatsapp-image-2026-10-01-at-90223-pm-1.jpg",
+    "featured": true,
+    "keywords": [
+      "Special Education",
+      "Autism Support",
+      "Generative AI",
+      "Inclusive Classroom",
+      "Lesson Planning",
+      "Assistive Tech",
+      "MOE",
+      "SUTD"
+    ]
+  },
+  {
+    "id": "learnloot-study-companion",
+    "sn": 16,
+    "title": "LearnLoot – AI Study Companion for Low-GPA Students",
+    "shortTitle": "LearnLoot – AI Study Companion for Low-GPA Students",
+    "category": "Social Impact",
+    "synopsis": "Students with a GPA of 2.5 and below often struggle to grasp fundamental concepts using conventional study materials. LearnLoot is an AI-powered study tool that reads off the user's own lecture slides and explains concepts in ways that are easier to understand, helping students learn at their own pace and improve their grades.",
+    "shortSynopsis": "Students with a GPA of 2.5 and below often struggle to grasp fundamental concepts using conventional study materials. LearnLoot is an AI-powered study tool that reads off the user's own lecture slides and explains concepts in ways that are easier to understand, helping students learn at their own pace and improve their grades.",
+    "innovation": "StudyQuest Arena turns any set of study materials into a living, AI-driven learning system — quiz questions are generated straight from the student's own slides (not generic trivia), automatically tracked by topic/section, and adapted in real time so difficulty rises where the student is strong and ramps up gently where they're weak.",
+    "benefit": "Students get a personalized, game-like study loop instead of passive reading: AI mentors explain why an answer is right, a strength radar shows exactly which topics need work, and XP, streaks, leaderboards, clans, and mini-games turn repetitive review into something students actually want to come back to.",
+    "display": {
+      "tagline": "Converts student lecture slides into gamified AI quizzes and adaptive tutoring for low-GPA learners.",
+      "problem": "Students with GPA of 2.5 and below often struggle to absorb core concepts from conventional passive lecture slides.",
+      "solution": "Students built StudyQuest Arena, turning lecture slides into AI-generated quizzes with adaptive difficulty, streaks, and RPG rewards.",
+      "howItWorks": [
+        {
+          "step": "1",
+          "title": "Upload",
+          "description": "Student uploads course lecture slides and revision notes."
+        },
+        {
+          "step": "2",
+          "title": "Generate",
+          "description": "AI extracts key concepts and generates adaptive quiz battles from the slides."
+        },
+        {
+          "step": "3",
+          "title": "Master",
+          "description": "Students earn XP, review mistake explanations, and track weakness areas."
+        }
+      ],
+      "innovationPoints": [
+        {
+          "title": "Slide-Grounded Question Engine",
+          "description": "Generates questions directly from student course materials rather than generic trivia."
+        },
+        {
+          "title": "Adaptive Difficulty Loop",
+          "description": "Adjusts question challenge in real time to build confidence on difficult concepts."
+        }
+      ],
+      "impactPoints": [
+        {
+          "title": "Active Study Engagement",
+          "description": "Replaces passive reading with motivating, gamified quiz practice."
+        },
+        {
+          "title": "Targeted Knowledge Recovery",
+          "description": "Visual strength radar pinpoints exact weak topics for focused exam prep."
+        }
+      ],
+      "highlightMetric": "Adaptive Slide-Based AI",
+      "technologyTags": [
+        "Adaptive Learning",
+        "Gamification",
+        "Slide Parsing",
+        "EdTech",
+        "AI Mentor"
+      ]
+    },
+    "lecturers": [
+      "Lead Lecturer: Rajesh R Mohan",
+      "Class Advisor: NORASHID DARNI"
+    ],
+    "students": [
+      "Yeo Qiu Shi Andrei"
+    ],
+    "course": "Higher NITEC in Cyber & Network Security",
+    "partner": "SUTD",
+    "photos": [
+      {
+        "url": "./assets/projects/learnloot-study-companion/learnloot-poster-01.jpg",
+        "caption": "Project presentation poster",
+        "type": "poster",
+        "originalFilename": "LearnLoot Poster 01.png"
+      },
+      {
+        "url": "./assets/projects/learnloot-study-companion/whatsapp-image-2026-09-07-at-53453-pm.jpg",
+        "caption": "Students demonstrating the project",
+        "type": "team",
+        "originalFilename": "WhatsApp Image 2026-09-07 at 5.34.53 PM.jpeg"
+      }
+    ],
+    "heroPhoto": "./assets/projects/learnloot-study-companion/whatsapp-image-2026-09-07-at-53453-pm.jpg",
+    "featured": true,
+    "keywords": [
+      "AI Study Companion",
+      "Adaptive Learning",
+      "Gamification",
+      "Student Support",
+      "Personalised Tutoring",
+      "EdTech",
+      "SUTD"
+    ]
+  }
+]

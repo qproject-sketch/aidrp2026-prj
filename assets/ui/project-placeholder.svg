@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f" />
+      <stop offset="50%" stop-color="#0e2a47" />
+      <stop offset="100%" stop-color="#172a45" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+    <pattern id="circuit" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 10 10 L 70 10 L 70 70 L 10 70 Z" fill="none" stroke="rgba(0,242,254,0.07)" stroke-width="1" />
+      <circle cx="10" cy="10" r="3" fill="rgba(0,242,254,0.15)" />
+      <circle cx="70" cy="70" r="3" fill="rgba(79,172,254,0.15)" />
+      <path d="M 10 40 L 40 40 L 40 70" fill="none" stroke="rgba(0,242,254,0.07)" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bgGrad)" />
+  <rect width="800" height="600" fill="url(#circuit)" />
+  <circle cx="400" cy="260" r="70" fill="none" stroke="url(#accentGrad)" stroke-width="3" opacity="0.8" />
+  <path d="M370 260 L390 280 L435 235" fill="none" stroke="#00f2fe" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="400" y="375" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT PROJECT SHOWCASE</text>
+  <text x="400" y="410" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle" letter-spacing="0.5">AI &amp; Digital Readiness Partnership 2026</text>
+</svg>

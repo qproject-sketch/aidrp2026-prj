@@ -1,0 +1,214 @@
+{
+  "kinetics-harvesting-tile-green-runway": {
+    "sn": 1,
+    "title": "Kinetics Harvesting Tile (KHT) Green Runway",
+    "folder": "01. KHT",
+    "matchedFiles": [
+      "01. KHT/KHT 03.png",
+      "01. KHT/KHT.jpg"
+    ],
+    "heroPhoto": "./assets/projects/kinetics-harvesting-tile-green-runway/kht.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "smart-recycling-machine": {
+    "sn": 2,
+    "title": "Smart Recycling Machine",
+    "folder": "02. Smart Recycling Machine",
+    "matchedFiles": [
+      "02. Smart Recycling Machine/Smart Recycline Machine 02.jpeg",
+      "02. Smart Recycling Machine/Smart Recycline Machine Poster 02.png",
+      "02. Smart Recycling Machine/Smart Recycling Machine 01.jpeg",
+      "02. Smart Recycling Machine/Smart Recycling Machine 03.jpeg",
+      "02. Smart Recycling Machine/Sustainable Smart Machine.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/smart-recycling-machine/sustainable-smart-machine.jpg",
+    "totalPhotos": 5,
+    "confidence": "high"
+  },
+  "ai-beverage": {
+    "sn": 3,
+    "title": "AI Beverage",
+    "folder": "03. AI Beverage",
+    "matchedFiles": [
+      "03. AI Beverage/AI Beverage Poster 01.png",
+      "03. AI Beverage/AI Beverage_project_photo.jpg"
+    ],
+    "heroPhoto": "./assets/projects/ai-beverage/ai-beverageprojectphoto.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "ai-career-companion": {
+    "sn": 4,
+    "title": "AI Career Companion For Everyone",
+    "folder": "04. AI Career Companion For Everyone",
+    "matchedFiles": [
+      "04. AI Career Companion For Everyone/AI Career Companion Team.jpg",
+      "04. AI Career Companion For Everyone/AI Companion for Everyone Poster 01.png"
+    ],
+    "heroPhoto": "./assets/projects/ai-career-companion/ai-career-companion-team.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "pulse-edge-ai-ecopulse": {
+    "sn": 5,
+    "title": "Pulse Edge AI with EcoPulse Insight",
+    "folder": "05. Pulse Edge AI with EcoPulse Insight",
+    "matchedFiles": [
+      "05. Pulse Edge AI with EcoPulse Insight/Pulse Edge AI with EcoPulse Insight Poster 01.png",
+      "05. Pulse Edge AI with EcoPulse Insight/Pulse Edge with EcoPulse Insight.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/pulse-edge-ai-ecopulse/pulse-edge-with-ecopulse-insight.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "ite-chow-hawkerhub": {
+    "sn": 6,
+    "title": "ITE Chow",
+    "folder": "06. ITE FOOD APP",
+    "matchedFiles": [
+      "06. ITE FOOD APP/Gemini_Generated_Image_a7xploa7xploa7xp.png",
+      "06. ITE FOOD APP/Gemini_Generated_Image_ai1103ai1103ai11.jpeg",
+      "06. ITE FOOD APP/Gemini_Generated_Image_gqvkntgqvkntgqvk.jpeg",
+      "06. ITE FOOD APP/Gemini_Generated_Image_xfmkmhxfmkmhxfmk.jpeg",
+      "06. ITE FOOD APP/HawkerHub_Poster_A2_Landscape_300DPI.png",
+      "06. ITE FOOD APP/ITE Chow Poster 01.png",
+      "06. ITE FOOD APP/Screenshot 2026-05-18 093715.png",
+      "06. ITE FOOD APP/student photo.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/ite-chow-hawkerhub/student-photo.jpg",
+    "totalPhotos": 8,
+    "confidence": "high"
+  },
+  "automated-invoice-processor": {
+    "sn": 7,
+    "title": "Automated Invoice Processor",
+    "folder": "07. Automated Invoice Processor",
+    "matchedFiles": [
+      "07. Automated Invoice Processor/Automated Invoice Processor Poster 01.png",
+      "07. Automated Invoice Processor/Automated Invoice Processor.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/automated-invoice-processor/automated-invoice-processor.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "smart-ai-operations-agent": {
+    "sn": 8,
+    "title": "AI Operations Agent",
+    "folder": "08. AI Operation Agent",
+    "matchedFiles": [
+      "08. AI Operation Agent/AI Operation Agent Poster 01.png",
+      "08. AI Operation Agent/SmartAI_FactoryAgent_Dashboard.png",
+      "08. AI Operation Agent/SmartAI_FactoryAgent_DigitalTwin.png",
+      "08. AI Operation Agent/SmartAI_FactoryAgent_OriginalGroupPhoto01.JPG",
+      "08. AI Operation Agent/SmartAI_FactoryAgent_OriginalGroupPhoto02.JPG",
+      "08. AI Operation Agent/SmartAI_FactoryAgent_Poster.png"
+    ],
+    "heroPhoto": "./assets/projects/smart-ai-operations-agent/smartaifactoryagentoriginalgroupphoto01.jpg",
+    "totalPhotos": 6,
+    "confidence": "high"
+  },
+  "roadside-warning-robot": {
+    "sn": 9,
+    "title": "Remote-Controlled Roadside Warning Robot",
+    "folder": "09. Remote-Controlled Roadside Warning Robot",
+    "matchedFiles": [
+      "09. Remote-Controlled Roadside Warning Robot/Remote-Controlled Roadside Warning Robot Poster 01.png",
+      "09. Remote-Controlled Roadside Warning Robot/TeamPhoto-Remote-controlled Roadside Warning Robot 02.png"
+    ],
+    "heroPhoto": "./assets/projects/roadside-warning-robot/teamphoto-remote-controlled-roadside-warning-robot-02.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "lipreading-ai": {
+    "sn": 10,
+    "title": "LipReading AI",
+    "folder": "10. LipReading AI",
+    "matchedFiles": [
+      "10. LipReading AI/LipReading AI Poster 01.png",
+      "10. LipReading AI/TeamPhoto_DigitalDragons.png",
+      "10. LipReading AI/TeamPhoto_DigitalDragons_2.jpg"
+    ],
+    "heroPhoto": "./assets/projects/lipreading-ai/teamphotodigitaldragons2.jpg",
+    "totalPhotos": 3,
+    "confidence": "high"
+  },
+  "nea-rag-sustainability-intel": {
+    "sn": 11,
+    "title": "NEA RAG",
+    "folder": "11. NEA RAG",
+    "matchedFiles": [
+      "11. NEA RAG/NEA RAG Poster 01.png",
+      "11. NEA RAG/NEA_RAG_original.HEIC"
+    ],
+    "heroPhoto": "./assets/projects/nea-rag-sustainability-intel/nearagoriginal.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "senior-guard-ai": {
+    "sn": 12,
+    "title": "Senior Guard AI (Edge AI for Safe Aging)",
+    "folder": "12. Senior Guard AI photos",
+    "matchedFiles": [
+      "12. Senior Guard AI photos/Senior Guard - dashboard snapshot.jpeg",
+      "12. Senior Guard AI photos/Senior Guard - demo at fei yue.jpeg",
+      "12. Senior Guard AI photos/Senior Guard - full setup.jpeg",
+      "12. Senior Guard AI photos/Senior Guard - presenting to guests of honour.jpeg",
+      "12. Senior Guard AI photos/Senior Guard AI photos Poster 01.png",
+      "12. Senior Guard AI photos/Senior_Guard_AI_original.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/senior-guard-ai/senior-guard-demo-at-fei-yue.jpg",
+    "totalPhotos": 6,
+    "confidence": "high"
+  },
+  "virtual-garden-xr": {
+    "sn": 13,
+    "title": "Virtual Garden",
+    "folder": "13. Virtual Garden",
+    "matchedFiles": [
+      "13. Virtual Garden/Team Excite(Virtual Garden).png",
+      "13. Virtual Garden/Virtual Garden Poster 01.png",
+      "13. Virtual Garden/Virtual Garden Project_Booklet2.png"
+    ],
+    "heroPhoto": "./assets/projects/virtual-garden-xr/team-excite-virtual-garden.jpg",
+    "totalPhotos": 3,
+    "confidence": "high"
+  },
+  "ecoscan-smart-recycling": {
+    "sn": 14,
+    "title": "EcoScan – Smart Recycling Assistant",
+    "folder": "14. EcoScan – Smart Recycling Assistant",
+    "matchedFiles": [
+      "14. EcoScan – Smart Recycling Assistant/EcoScan – Smart Recycling Assistant Poster 01.png",
+      "14. EcoScan – Smart Recycling Assistant/EcoScan – Smart Recycling Assistant.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/ecoscan-smart-recycling/ecoscan-smart-recycling-assistant.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  },
+  "incluteach-autism-support": {
+    "sn": 15,
+    "title": "IncluTeach – Inclusive Teaching Support for Students with Autism",
+    "folder": "15. IncluTeach",
+    "matchedFiles": [
+      "15. IncluTeach/ChatGPT Image Oct 6, 2026, 08_19_57 PM.png",
+      "15. IncluTeach/WhatsApp Image 2026-10-01 at 9.02.23 PM (1).jpeg",
+      "15. IncluTeach/WhatsApp Image 2026-10-01 at 9.02.23 PM.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/incluteach-autism-support/whatsapp-image-2026-10-01-at-90223-pm-1.jpg",
+    "totalPhotos": 3,
+    "confidence": "high"
+  },
+  "learnloot-study-companion": {
+    "sn": 16,
+    "title": "LearnLoot – AI Study Companion for Low-GPA Students",
+    "folder": "16. LearnLoot",
+    "matchedFiles": [
+      "16. LearnLoot/LearnLoot Poster 01.png",
+      "16. LearnLoot/WhatsApp Image 2026-09-07 at 5.34.53 PM.jpeg"
+    ],
+    "heroPhoto": "./assets/projects/learnloot-study-companion/whatsapp-image-2026-09-07-at-53453-pm.jpg",
+    "totalPhotos": 2,
+    "confidence": "high"
+  }
+}
